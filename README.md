@@ -1,7 +1,7 @@
 # PKG GUI CREATOR
 With this website, print and paste directly without writing terminal code!
 
-Web site : 
+Web site : https://w0clxq.github.io/pkg-ui-manager/
 
 ## Install Packages
 
